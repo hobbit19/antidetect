@@ -55,3 +55,4 @@ mtp.tencent.com
 intl.mtp.tencent.com
 cloud.mtp.tencent.com
 intl.cloud.mtp.tencent.com
+apm.wetest.qq.com
