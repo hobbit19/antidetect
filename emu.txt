@@ -45,14 +45,8 @@ cdn.wetest.qq.com
 wetest.qq.cloud.tc.qq.com
 cdn.wetest.qq.cloud.tc.qq.com
 cloud.tc.qq.com
-adjust.com
-app.adjust.com
 tdm.qq.com
-tegsea.qq.com
 intldlgs.qq.com
-intl.dlgs.qq.com
-intldlgs.qq.com.tegsea.qq.com
-intl.dlgs.qq.com.tegsea.qq.com
 mtp.qq.com
 intl.mtp.qq.com
 cloud.mtp.qq.com
