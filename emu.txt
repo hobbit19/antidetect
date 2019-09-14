@@ -82,7 +82,6 @@ backup.qq.com
 web.qq.com
 local.qq.com
 ssl.qq.com
-android.bugly.qq.com
 commdata.v.qq.com
 clientreport.gfm.qq.com
 3gimg.qq.com
