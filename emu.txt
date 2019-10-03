@@ -1,16 +1,25 @@
 # IPs
+13.57.122.231
 49.51.66.225
 49.51.67.236
+54.215.136.41
+54.215.155.114
+103.16.136.42
 119.28.109.187
 119.28.123.95
 119.28.35.248
+119.28.112.104
 182.254.116.117 
 140.207.122.141
 203.205.219.228
+203.205.239.188
 124.156.123.137
 
 
 # Hosts
+idcconfig.gcloud.qq.com
+ig-us-sdkapi.igamecj.com
+ig-us-notice.igamecj.com
 mtp.qq.com
 intl.mtp.qq.com
 cloud.mtp.qq.com
@@ -39,13 +48,11 @@ dlied5.tc.qq.com
 dlied6.tcdn.qq.com
 dlied6.tc.qq.com
 masterconn11.qq.com
-oth.eve.mdt.qq.com
 pingma.qq.com
 cloud.gsdk.proximabeta.com
 file.igamecj.com
 android.bugly.qq.com
 vmp.qq.com
-oth.eve.mdt.qq.com
 down.qq.com
 bug.pubg.com
 cloud.pubg.com
