@@ -18,6 +18,7 @@
 140.207.54.57
 203.105.158.62
 157.240.7.20
+58.247.214.32
 idcconfig.gcloud.qq.com
 ig-us-sdkapi.igamecj.com
 ig-us-notice.igamecj.com
