@@ -1,4 +1,4 @@
-182.254.116.117
+ 182.254.116.117
 203.205.151.193
 119.28.229.113
 103.16.136.42
@@ -73,12 +73,6 @@ file.igamecj.com
 android.bugly.qq.com
 vmp.qq.com
 down.qq.com
-bug.pubg.com
-cloud.pubg.com
-fix.pubg.com
-report.pubg.com
-tencent-pubg.com
-litepc-session-service.pubg.com
 wetest.qq.com
 cdn.wetest.qq.com
 wetest.qq.cloud.tc.qq.com
@@ -104,7 +98,6 @@ mta.qq.com
 apse.s.ludashi.com
 apse-sstart.ludashi.com
 net.rayjump.com
-analytics.rayjump.com
 setting.rayjump.com
 cdn.appnext.com
 global.appnext.com
