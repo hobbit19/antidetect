@@ -1,3 +1,4 @@
+182.254.116.117
 idcconfig.gcloud.qq.com
 ig-us-sdkapi.igamecj.com
 ig-us-notice.igamecj.com
@@ -9,7 +10,6 @@ mtp.tencent.com
 intl.mtp.tencent.com
 cloud.mtp.tencent.com
 intl.cloud.mtp.tencent.com
-cloud.tcqq.com
 dlied1.qq.com
 dlied2.qq.com
 dlied3.qq.com
