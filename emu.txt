@@ -1,4 +1,4 @@
- 182.254.116.117
+182.254.116.117
 203.205.151.193
 119.28.229.113
 103.16.136.42
@@ -39,6 +39,8 @@
 
 idcconfig.gcloud.qq.com
 pandora.game.qq.com
+oth.str.mdt.qq.com	
+tpns.qq.com
 ig-us-sdkapi.igamecj.com
 ig-us-notice.igamecj.com
 mtp.qq.com
