@@ -37,6 +37,7 @@
 52.9.17.36
 140.207.119.101
 
+app.adjust.com
 idcconfig.gcloud.qq.com
 pandora.game.qq.com
 oth.str.mdt.qq.com	
@@ -47,6 +48,7 @@ mtp.qq.com
 intl.mtp.qq.com
 cloud.mtp.qq.com
 intl.cloud.mtp.qq.com
+intldlgs.qq.com
 mtp.tencent.com
 intl.mtp.tencent.com
 cloud.mtp.tencent.com
