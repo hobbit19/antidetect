@@ -38,6 +38,7 @@
 140.207.119.101
 
 idcconfig.gcloud.qq.com
+pandora.game.qq.com
 ig-us-sdkapi.igamecj.com
 ig-us-notice.igamecj.com
 mtp.qq.com
