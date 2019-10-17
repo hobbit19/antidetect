@@ -74,7 +74,6 @@ dlied6.tc.qq.com
 masterconn11.qq.com
 pingma.qq.com
 cloud.gsdk.proximabeta.com
-file.igamecj.com
 android.bugly.qq.com
 vmp.qq.com
 down.qq.com
