@@ -37,6 +37,7 @@
 52.9.17.36
 140.207.119.101
 
+receiver.sg.tdm.qq.com
 app.adjust.com
 idcconfig.gcloud.qq.com
 pandora.game.qq.com
