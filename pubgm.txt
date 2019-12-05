@@ -52,3 +52,15 @@ cs.mbgame.gamesafe.qq.com
 idcconfig.gcloud.qq.com
 ig-us-sdkapi.igamecj.com
 mtp.qq.com
+
+apse.s.ludashi.com
+apse-sstart.ludashi.com
+net.rayjump.com
+analytics.rayjump.com
+setting.rayjump.com
+cdn.appnext.com
+global.appnext.com
+admin.appnext.com
+api.appnxt.net
+apis.appnxt.net
+app.adjust.com
