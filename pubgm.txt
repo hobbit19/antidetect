@@ -37,13 +37,10 @@
 52.9.17.36
 140.207.119.101
 
-receiver.sg.tdm.qq.com
 idcconfig.gcloud.qq.com
 pandora.game.qq.com
 oth.str.mdt.qq.com	
 tpns.qq.com
-ig-us-sdkapi.igamecj.com
-ig-us-notice.igamecj.com
 mtp.qq.com
 intl.mtp.qq.com
 cloud.mtp.qq.com
@@ -57,12 +54,6 @@ pingma.qq.com
 cloud.gsdk.proximabeta.com
 android.bugly.qq.com
 vmp.qq.com
-down.qq.com
-wetest.qq.com
-cdn.wetest.qq.com
-wetest.qq.cloud.tc.qq.com
-cdn.wetest.qq.cloud.tc.qq.com
-cloud.tc.qq.com
 tdm.qq.com
 intldlgs.qq.com
 intl.mtp.qq.com
@@ -72,9 +63,5 @@ mtp.tencent.com
 intl.mtp.tencent.com
 cloud.mtp.tencent.com
 intl.cloud.mtp.tencent.com
-apm.wetest.qq.com
-pmir.3g.qq.com
-ssl.qq.com
 tencentgames.helpshift.com
 szmg.qq.com
-mta.qq.com
