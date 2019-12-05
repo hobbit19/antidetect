@@ -38,9 +38,6 @@
 140.207.119.101.in-addr.arpa
 
 oth.eve.mdt.qq.com	
-tpns.qq.com
-mtp.qq.com
-intldlgs.qq.com
 pingma.qq.com
 cloud.gsdk.proximabeta.com
 android.bugly.qq.com
@@ -51,3 +48,4 @@ intl.cloud.mtp.qq.com
 mtp.tencent.com
 intl.mtp.tencent.com
 cloud.mtp.tencent.com
+cs.mbgame.gamesafe.qq.com
