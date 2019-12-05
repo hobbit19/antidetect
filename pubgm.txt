@@ -37,7 +37,8 @@
 52.9.17.36.in-addr.arpa
 140.207.119.101.in-addr.arpa
 
-oth.eve.mdt.qq.com	
+oth.eve.mdt.qq.com
+oth.str.mdt.qq.com	
 pingma.qq.com
 cloud.gsdk.proximabeta.com
 android.bugly.qq.com
@@ -64,3 +65,5 @@ admin.appnext.com
 api.appnxt.net
 apis.appnxt.net
 app.adjust.com
+appnext.hs.llnwd.net
+
