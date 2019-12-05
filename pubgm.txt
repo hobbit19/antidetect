@@ -49,3 +49,6 @@ mtp.tencent.com
 intl.mtp.tencent.com
 cloud.mtp.tencent.com
 cs.mbgame.gamesafe.qq.com
+idcconfig.gcloud.qq.com
+ig-us-sdkapi.igamecj.com
+mtp.qq.com
